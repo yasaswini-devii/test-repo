@@ -2,6 +2,7 @@ h1{
     color:aqua;
     background-color: rgb(201, 20, 20);
     padding: 10px;
+    margin: 40px;
 }
 *{
     box-sizing: border-box;
